@@ -26,7 +26,7 @@ Numeracy Search is a Python application that helps you discover various categori
 Run the program from the command line:
 
 ```bash
-python main.py
+python main.py or python3 main.py
 ```
 
 ### How to Use
